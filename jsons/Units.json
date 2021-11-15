@@ -8,7 +8,7 @@
 		"unitType": "Civilian",
 		"movement": 2,
 		"cost": 70,
-		"uniques": ["Can build improvements on tiles"]
+		"uniques": ["Can build [Land,Water] improvements on tiles"]
 	},
 	{
 		"name": "Settler",
